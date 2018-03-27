@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yanockaskhabova/CLionProjects/DynamicArray/DynamivaArray.cpp
+DynamivaArray.h
+/Users/yanockaskhabova/CLionProjects/DynamicArray/DynamivaArray.h
+iostream
+-
+math.h
+-
+
+/Users/yanockaskhabova/CLionProjects/DynamicArray/DynamivaArray.h
+iostream
+-
+
+/Users/yanockaskhabova/CLionProjects/DynamicArray/main.cpp
+iostream
+-
+DynamivaArray.h
+/Users/yanockaskhabova/CLionProjects/DynamicArray/DynamivaArray.h
+
